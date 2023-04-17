@@ -1,0 +1,32 @@
+.violet{
+    background-color: blueviolet;
+}
+.violet1{
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 100px;
+}
+.back{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/images6/4K-Office-Backgrounds-HD.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.trans{
+    background-color: transparent !important;
+}
+.change{
+    color: blueviolet;
+}
+.out{
+    background-color: blueviolet;
+}
+.modifiying{
+    background-color: brown;
+}
+.outing{
+    border-radius: 10px;
+    border-color: blueviolet;
+    outline-color: blueviolet;
+    background-color: white;
+}
